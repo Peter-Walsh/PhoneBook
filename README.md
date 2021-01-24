@@ -2,8 +2,7 @@
 Sorts/searches a phonebook using different searching and sorting algorithms. Also implements a hashtable and uses that instead.
 
 # Goal
-The goal of this project was for me to implement several of the basic searching and sorting algorithms and get a better understanding of the Big-O notation. In my data structures course, we looked at Big-O notation, however, we never worked 
-with data sets large enough to see its effects.
+The goal of this project was for me to was to get a better understanding of the Big-O notation and to really see the difference between algorithms with different runtimes. 
 
 # Functionality
 - Storing/Searching for elements in a hashtable
